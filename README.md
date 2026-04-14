@@ -70,7 +70,7 @@ FORMULARIO_DE_MATRICULA/
 
 ## 📸 Preview
 
-![Preview do formulário](assets/Illustration.svg)
+![Preview do formulário](assets/c:\Users\leona\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{40CD96E9-3C8F-4A52-B20C-78F3FC6D39B0}.svg)
 
 ---
 
