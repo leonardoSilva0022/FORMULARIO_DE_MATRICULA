@@ -82,4 +82,4 @@ Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENS
 
 ---
 
-Desenvolvido por [Leonardo Silva](https://github.com/leonardoSilva0022) 🚀
+Desenvolvido por [Leonardo Silva](https://www.linkedin.com/in/leonardo-silva-soares/) 🚀
