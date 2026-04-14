@@ -70,7 +70,9 @@ FORMULARIO_DE_MATRICULA/
 
 ## 📸 Preview
 
-![Preview do formulário](assets/c:\Users\leona\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{40CD96E9-3C8F-4A52-B20C-78F3FC6D39B0}.svg)
+![Preview do formulário]<img width="965" height="910" alt="{1E3FC1D5-11ED-4EAE-81E0-DC0706E755ED}" src="https://github.com/user-attachments/assets/7da8e4e8-7e68-4bc8-91c8-8bab0a19b9d3" />
+
+
 
 ---
 
@@ -80,4 +82,4 @@ Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENS
 
 ---
 
-Desenvolvido por [Leonardo Silva](https://github.com/leonardoSilva0022) 🚀
+Desenvolvido por [Leonardo Silva](https://www.linkedin.com/in/leonardo-silva-soares/) 🚀
